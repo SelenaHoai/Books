@@ -92,6 +92,8 @@ public class BooksModel {
 	public void setUpdatedAt(Date updatedAt) {
 		this.updatedAt = updatedAt;
 	}
+	
+	// Create & Update
 	@PrePersist
     protected void onCreate(){
         this.createdAt = new Date();

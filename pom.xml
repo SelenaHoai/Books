@@ -65,7 +65,7 @@
 
         
         
-<!--  DEPENDENCIES BOOTSTRAP -->
+		<!--  DEPENDENCIES BOOTSTRAP -->
 		<dependency>
 	        <groupId>org.webjars</groupId>
 	        <artifactId>webjars-locator</artifactId>
